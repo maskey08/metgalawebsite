@@ -1,0 +1,33 @@
+
+.press{
+    padding:5px 350px;
+    font-size: 100%;
+    display: block;
+}
+.general-content{
+    line-height: 20px;
+}
+.part1{
+    width: 100%;
+    font-family:  arial,sans-serif;
+    text-align: left;
+
+}
+.p1visit{
+    width: 275px;
+}
+
+.mapouter1{
+    position:relative;
+    text-align:right;
+    height:500px;
+    width:850px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(60%);
+    border:solid 5px black}
+.gmap_canvas1 {
+    overflow:hidden;
+    background:none!important;
+    height:500px;
+    width:850px;
+}
