@@ -1,0 +1,20 @@
+.gallery img{
+    Height: 275px;
+    min-height: 100px;
+    padding: 5px 5px;
+}
+.galheads{
+    font-family: Cambria;
+    font-size: 45px;
+}
+.gallery_container {
+    width:1400px;
+    padding-left: 70px;
+}
+.gallery_container h2{
+    text-align: center;
+}
+.gallery{
+    box-shadow: 0px 0px 5px black;
+    padding:8px 8px;
+}    
